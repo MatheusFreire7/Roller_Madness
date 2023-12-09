@@ -1,0 +1,8 @@
+Library/
+Temp/UnityLockfile
+Temp/
+obj/
+Builds/
+Logs/
+*.sln
+*.csproj
